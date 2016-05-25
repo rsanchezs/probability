@@ -6,7 +6,8 @@
         "book-summary-scroll-position-saver",
         "youtubex",
         "video",
-        "ga"
+        "ga",
+        "mathjax"
        
     ],
     "pluginsConfig": {

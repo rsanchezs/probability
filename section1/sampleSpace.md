@@ -1,6 +1,8 @@
 
 # Experimento aleatorio y espacio muestral
 
+{%youtube%}EnpAsENuryg{%endyoutube%}
+
 Lanzar un dado y observar que numero aparece en la cara superior es lo que se denomina __experimento aleatorio__, ya que, si bien sabemos cuales son los posibles resultados (que salga 1 o 2 o 3 o 4 o 5 o 6 puntos), no podemos saber cual será el numero que saldrá en cada tirada particular. El conjunto de todos los posibles resultados se denomina __espacio muestral__ y se acostumbra a designar con la letra $\Omega $.
 
 > __Experimento aleatorio__ es aquel que tiene diferentes resultados posibles de los cuales no tenemos seguridad sobre que resultado se producirá realmente. Además, es indispensable que el experimento se pueda reproducir en condiciones idénticas tantas veces como sea necesario.
