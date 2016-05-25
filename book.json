@@ -1,0 +1,28 @@
+{
+    "plugins": [
+        "github",
+        "sectionx",
+        "expandable-chapters",
+        "book-summary-scroll-position-saver",
+        "youtubex",
+        "video",
+        "ga"
+       
+    ],
+    "pluginsConfig": {
+        "mathjax": {
+            "forceSVG": true
+        },
+        "github": {
+          "url":"https://github.com/rsanchezs"
+        },
+        "expandable-chapters":{},
+        "book-summary-scroll-position-saver":{},
+        "ga": {
+            "token": "UA-48754828-6"
+        }
+
+        
+       
+    }
+}
